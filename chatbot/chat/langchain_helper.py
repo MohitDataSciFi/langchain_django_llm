@@ -9,7 +9,7 @@ import os
 
 
 # Create Google Palm LLM model
-llm = GooglePalm(google_api_key= 'AIzaSyAdQlMHM_WutuZDg43uZrkIS6tE7De3j8w', temperature=0.1)
+llm = GooglePalm(google_api_key= '', temperature=0.1)
 # # Initialize instructor embeddings using the Hugging Face model
 instructor_embeddings = HuggingFaceInstructEmbeddings(model_name="hkunlp/instructor-large")
 current_path = os.path.dirname(__file__)
