@@ -1,0 +1,9 @@
+2023-10-30 23:19:57,242 - INFO - Loading faiss with AVX2 support.
+2023-10-30 23:19:57,242 - INFO - Could not load library with AVX2 support due to:
+ModuleNotFoundError("No module named 'faiss.swigfaiss_avx2'")
+2023-10-30 23:19:57,242 - INFO - Loading faiss.
+2023-10-30 23:19:57,665 - INFO - Successfully loaded faiss.
+2023-10-30 23:20:01,114 - INFO - Message: Price?
+2023-10-30 23:20:01,114 - INFO - Response: 
+Answer: On Road Price For Kratos R is 1,72,539 rupees
+:
